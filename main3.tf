@@ -3,6 +3,6 @@ terraform {
 }
 
 resource "local_file" "foo" {
-  content  = "boo!"
+  content  = "shoe!"
   filename = "foo"
 }
